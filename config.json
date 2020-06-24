@@ -1,10 +1,10 @@
 {
     "project": {
-        "name": "mybgg",
-        "title": "Michael Lajlevs games"
+        "name": "tigrillo",
+        "title": "Tigrillos games"
     },
     "boardgamegeek": {
-        "user_name": "lajlev",
+        "user_name": "tigrillo",
         "extra_params": {
             "own": 1
         }
@@ -12,7 +12,7 @@
     "algolia": {
         "app_id": "00GQDHDL1N",
         "api_key_search_only": "b20c66c0a5491f92a4eb7366ebfa1c3b",
-        "index_name": "lajlev",
+        "index_name": "tigrillo",
         "hits_per_page": 100,
         "sort_by": "asc(rank)"
     }
